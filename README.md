@@ -48,6 +48,7 @@ add two more features based on your result as in fig2, and produce the final res
 - Feature 2: add title for the plot and four labels for each of the vertical coordinate.
 
 Exercise 4
+
 Two Pandas DataFrames, countries_df, and indicators_df will be generated after running the skeleton. The
 ‘first one contains geopolitical information about every country (182 countries are presented, those lack of
 data are deleted), and the second one contains different development indicators per country and year. As a
