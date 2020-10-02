@@ -4,7 +4,7 @@ Basic Data Visualization Course
 Introduction to the fundamental principles and techniques for the visualization of scalar, abstract, spatial, multidimensional as well as graph and hierarchical data.
 
 
-Exercise 1
+## Exercise 1
 - Plot 1: Create a vertically stacked bar chart and present the total number of dogs in Zürich in each year for
 each gender. Create also a hover tooltip for indicating the corresponding year, the number of male dogs and
 the number of female dogs.
@@ -18,7 +18,7 @@ etc.
 have legends to distinguish different contents. Adding additional stylish visual attributes is highly
 recommended, such as different color schemes, label orientations, etc.
 
-Exercise 2
+## Exercise 2
 - Figure 1: Display the original RGB image in fig1, later add interaction with sliders.
 - Figure 2: Compute the Red, Green, and Blue components of the original RGB image and store them as image
 arrays. Finally display both the RGB image and three color components R, G, and B in four subfigures in
@@ -34,7 +34,7 @@ distributed to the image. Every time when slide this slider, the noise level wil
 noise_density parameter and fig1 will update and display the corresponding noisy image.
 - In the final dashboard, set proper titles for plots and slider
 
-Exercise 3
+## Exercise 3
 - Stage 1: Process the dataset using Pandas in the way that it can be properly used by the
 program and be able to produce the result as shown in fig1. Pay attention that in fig 1 the order of the four
 coordinates is different from the oder of the data you have, you will need to first change the order of the
@@ -47,8 +47,7 @@ add two more features based on your result as in fig2, and produce the final res
 - Feature 1: remove the upper and lower border of the whole plot.
 - Feature 2: add title for the plot and four labels for each of the vertical coordinate.
 
-Exercise 4
-
+## Exercise 4
 Two Pandas DataFrames, countries_df, and indicators_df will be generated after running the skeleton. The
 ‘first one contains geopolitical information about every country (182 countries are presented, those lack of
 data are deleted), and the second one contains different development indicators per country and year. As a
